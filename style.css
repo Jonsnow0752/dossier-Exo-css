@@ -1,0 +1,19 @@
+.paragraphe1 span {
+    font-weight: bold;}
+.paragraphe1:hover {color: blue;}
+
+.txt1:focus {color: yellow;}
+
+.Cliquez {
+    font-size: 150px;
+    font-weight: 130px;
+    text-align: center;
+    color: pink;
+    background-color: yellowgreen;
+    border-radius: 150px;
+    padding: 100px;
+    font-style: italic;
+    font-family: fantasy;
+    text-transform:capitalize;
+}
+div:hover{background-color: black;}
